@@ -1,3 +1,5 @@
+This is a CentOS7 installation from minimal script
+    #!/bin/bash
     #
     # CentOS7 installation Guide
     #
