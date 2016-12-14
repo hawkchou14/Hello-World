@@ -7,3 +7,5 @@ _This is a CentOS7 installation from minimal script_
     yum -y groups install "GNOME Desktop"
 
 After installation, reboot the system
+
+Set selinux disabled
