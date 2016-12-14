@@ -1,4 +1,4 @@
-#This is a CentOS7 installation from minimal script
+_This is a CentOS7 installation from minimal script_
 
     #!/bin/bash
     #
